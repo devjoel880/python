@@ -1,0 +1,11 @@
+# String libraries in Pyhton
+
+upper()                        
+lower()
+replace('old', 'new')           
+startswith()
+find()                          
+len()
+(string[index:index]) *slice    
+[] (index strings)
+capitalise() 

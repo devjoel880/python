@@ -1,0 +1,6 @@
+JSON means - JavaScript Object Notation. It is what we use to serialize data.
+It was discovered by Douglas Crockford.
+JSON is natively JavaScript.
+
+SERVICE ORIENTED APROACH
+Services publish the rules applications must follow to make use of the service (API)

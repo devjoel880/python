@@ -1,0 +1,4 @@
+re -> Regular Expressions
+socket -> Socket communications
+urllib (urllib.request, urllib.parse, urllib.error) -> Better socket communications
+from bs4 import BeautifulSoup -> Web Scraping, parsing html files
